@@ -23,7 +23,7 @@ var ipv6_proxy = function(){ return nowall_proxy(); };
 
  /*
  * Copyright (C) 2018 PascalYuxian
- * https://pac.yuxstudio.net
+ * https://pascalyuxian.github.io/Science-online-And-Zombie-IP/pac.txt
  */
  
 var rules = [
