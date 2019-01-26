@@ -6,7 +6,7 @@ ASN，IDC，部分危险情报数据来自https://ipip.net</br>
 
 SSR免费节点来源：https://t.me/SSRlist | https://t.me/ctcgfw_free</p>
 SSR免费节点订阅地址：https://sori.yuxianstudio.com/free55r.txt</p>
-Guangxi Enlightened Agent 请发送邮件到apply@gxenl.com申请免费机场账号使用资格</p>
+Guangxi Enlightened Agent 请发送邮件到sori@gxenl.com申请免费机场账号使用资格</p>
 
 本项目接受赞助,地址：https://gxenl.com/extstars
 
