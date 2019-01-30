@@ -32,8 +32,8 @@
 	"nodeFeedAutoUpdate" : true,
 	"serverSubscribes" : [
 		{
-			"URL" : "https://sori.yuxianstudio.com/free55r.txt",
-			"Group" : "@IRANSSR"
+			"URL" : "https://sori.yuxianstudio.com/free55r",
+			"Group" : "@https://github.com/PascalYuxian/SORI"
 		}
 	],
 	"token" : {
