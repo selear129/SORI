@@ -32,7 +32,7 @@
 	"nodeFeedAutoUpdate" : true,
 	"serverSubscribes" : [
 		{
-			"URL" : "https://sori.yuxianstudio.com/free55r",
+			"URL" : "https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub",
 			"Group" : "@https://github.com/PascalYuxian/SORI"
 		}
 	],
